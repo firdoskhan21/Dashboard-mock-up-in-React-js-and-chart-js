@@ -16,4 +16,5 @@ This will run the react project on localhost with a default port ``` 3000 ```
 ### Description of the chart components
 Here different components(class components) are made with chart js variables and data for there creation is passed in aother component.
 This is how the charts looks like after execution:
-![Simple bar,Line,Doughnut chart](/home/firdos/Documents/dashboardgithub.png)
+
+![](https://github.com/firdoskhan21/Dashboard-mock-up-in-React-js-and-chart-js/blob/master/src/dashboardgithub.png)
