@@ -98,6 +98,7 @@ export default class DashboardWidget extends React.PureComponent {
           borderRadius: "3px",
           height: "100%"
         }}
+        spacing={2}
       >
         {this.props.items.map(i => (
           <Grid
